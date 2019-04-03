@@ -1,5 +1,4 @@
 {
-"main_admin":"very_hard_pass",
-"admin_helper":"123456", 
-"edit_manager":"qwerty8800"
+"admin":"pass12345",
+"helper":"123456"
 }
